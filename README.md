@@ -89,3 +89,12 @@
 * 新建一个命令行tag：command+T
 * 命令行下访问：curl http://192.168.99.100:8081
 * 浏览器中访问：http://192.168.99.100:8081
+
+
+Sofien : Go to main dir, call image creation 
+
+docker build . -t spbex
+
+and than call run 
+
+docker run spbex
