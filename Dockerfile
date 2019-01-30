@@ -1,4 +1,4 @@
-ROM maven:3.5-jdk-8
+FROM maven:3.5-jdk-8
 
 CMD mvn clean install
 
